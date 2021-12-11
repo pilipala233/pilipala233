@@ -1,6 +1,6 @@
 ### Hi there 👋<br>
 ![](https://visitor-badge.glitch.me/badge?page_id=pilipala233.readme)<br>
-
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pilipala233&show_icons=true&count_private=true&hide=prs&theme=default_repocard">]((https://metrics.lecoq.io/ouuan?template=classic))
 I'm .
 
 -   :hammer_and_pick: C++ / Qt / GitHub Actions / Python / TypeScript / Vue
@@ -12,7 +12,7 @@ I'm .
 
 ---
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pilipala233&show_icons=true&count_private=true&hide=prs&theme=default_repocard">]((https://metrics.lecoq.io/ouuan?template=classic))
+
 
 
 
