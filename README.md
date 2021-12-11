@@ -12,7 +12,7 @@ I'm .
 
 ---
 
-![info](https://github-readme-stats.vercel.app/api?username=pilipala233&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pilipala233&show_icons=true&count_private=true&hide=prs&theme=default_repocard">]((https://metrics.lecoq.io/ouuan?template=classic))
 
 
 
