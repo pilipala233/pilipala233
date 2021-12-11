@@ -18,7 +18,7 @@
   ![Steam](https://img.shields.io/badge/-Steam-black?style=plastic&logo=Steam)
   ![PlayStation](https://img.shields.io/badge/-PlayStation-black?style=plastic&logo=PlayStation&logoColor=003791)
   ![Xbox](https://img.shields.io/badge/-Xbox-black?style=plastic&logo=Xbox&logoColor=107C10)
-  ![NintendoSwitch](https://img.shields.io/badge/-NintendoSwitch-black?style=plastic&logo=NintendoSwitch&logoColor=E60012)
+  ![NintendoSwitch](https://img.shields.io/badge/-Switch-black?style=plastic&logo=NintendoSwitch&logoColor=E60012)
 
 ---
 
