@@ -10,7 +10,7 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Vue](https://img.shields.io/badge/-Vue-black?style=plastic&logo=vuedotjs)
   
-- 🌱 Learning all about :
+- 🌱 Currently learning :
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![Graphql](https://img.shields.io/badge/-Graphql-black?style=plastic&logo=Graphql)
   ![Flutter](https://img.shields.io/badge/-Flutter-black?style=plastic&logo=Flutter&logoColor=02569B) 
