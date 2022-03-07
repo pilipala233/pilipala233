@@ -12,7 +12,6 @@
   
 - 🌱 Currently learning :
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
-  ![Graphql](https://img.shields.io/badge/-Graphql-black?style=plastic&logo=Graphql)
   ![Flutter](https://img.shields.io/badge/-Flutter-black?style=plastic&logo=Flutter&logoColor=02569B) 
 - 💻 Play:
   ![Steam](https://img.shields.io/badge/-Steam-black?style=plastic&logo=Steam)
