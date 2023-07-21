@@ -3,7 +3,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pilipala233&show_icons=true&count_private=true&hide=prs&theme=default_repocard">]((https://metrics.lecoq.io/ouuan?template=classic))
 
 ### 
-- ⚡️ I'm currently working at **Beijing North-Star**
+- ⚡️ I'm currently working at **Beijing North-Star**（want to resign
 
 - 🚀 I work using:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
