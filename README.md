@@ -1,6 +1,6 @@
 ## Hey, here! :wave:
 
-[<img align="right" width="43%" src="https://github-readme-stats.vercel.app/api?username=pilipala233&show_icons=true&count_private=true&hide=prs&theme=default_repocard">]((https://metrics.lecoq.io/ouuan?template=classic))
+[<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=pilipala233&show_icons=true&count_private=true&hide=prs&theme=default_repocard">]((https://metrics.lecoq.io/ouuan?template=classic))
 
 ### 
 - 🤡 Work: **Nanfang Digital**->**HSBC**-> **CEEC**
@@ -9,7 +9,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
   ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 - 😴 Currently learning :
   ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
