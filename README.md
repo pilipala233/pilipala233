@@ -12,10 +12,9 @@
   ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
   ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 - 😴 Currently learning :
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat)
-  ![Learn Japanese](https://img.shields.io/badge/-Learn%20Japanese-ff69b4?style=flat)
-
+  ![Python](https://img.shields.io/badge/-Python-02569B?style=flat&logo=Python&logoColor=white)
+  ![openCV](https://img.shields.io/badge/-openCV-02569B?style=flat&logo=openCV&logoColor=white)
 - 😍 Play:
   ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat&logo=steam&logoColor=white)
   ![PlayStation](https://img.shields.io/badge/-PlayStation-003791?style=flat&logo=playstation&logoColor=white)
