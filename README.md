@@ -11,7 +11,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
   ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
-- 😴 Currently learning :
+- 😴 learning :
   ![Java](https://img.shields.io/badge/Java-007396?style=flat)
   ![Python](https://img.shields.io/badge/-Python-02569B?style=flat&logo=Python&logoColor=white)
   ![openCV](https://img.shields.io/badge/-openCV-02569B?style=flat&logo=openCV&logoColor=white)
